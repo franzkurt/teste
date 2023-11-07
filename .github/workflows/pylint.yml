@@ -21,4 +21,4 @@ jobs:
         pip install requests
 
     - name: Run Python script
-      run: python your_script.py
+      run: python arq.py
